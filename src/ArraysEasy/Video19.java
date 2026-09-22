@@ -3,7 +3,7 @@ package ArraysEasy;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Arrays3 {
+public class Video19 {
 
 
 

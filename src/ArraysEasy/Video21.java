@@ -1,8 +1,6 @@
 package ArraysEasy;
 
-import java.util.HashMap;
-
-public class Arrays5 {
+public class Video21 {
 
     //2 SUM PROBLEM
     //BRUTE

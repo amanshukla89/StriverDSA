@@ -3,7 +3,7 @@ package ArraysEasy;
 import java.util.Arrays;
 import java.util.TreeSet;
 
-public class Arrays1 {
+public class Video17 {
 
     //Q-1: Largest element in an array
     //Brute Solution:Sorting

@@ -1,8 +1,6 @@
 package ArraysEasy;
 
-import java.util.Arrays;
-
-public class Arrays2 {
+public class Video18 {
 
     //REVERSE AN ARRAY
     static void reverse(int[] arr, int start, int end) {

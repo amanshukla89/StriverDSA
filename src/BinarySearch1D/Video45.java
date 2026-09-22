@@ -1,6 +1,6 @@
 package BinarySearch1D;
 
-public class BS1 {
+public class Video45 {
 
     //basic problem for Binary Search
     //TC:O(LOGN)
